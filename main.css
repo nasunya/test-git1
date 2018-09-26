@@ -1,3 +1,9 @@
 .name {
-  /* border: 1px solid red; */
+  border: 1px solid red;
+}
+.contacts__desc {
+  background: yellowgreen;
+}
+.breadcrumbs__link {
+  color: red;
 }
